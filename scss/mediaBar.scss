@@ -1,0 +1,36 @@
+.bar{
+  padding-top:40px;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+
+#mediaBar {
+  width: 50%;
+  height: 105px;
+  background: white;
+
+  span {
+    font-size: 24px;
+    font-weight: 600;
+    padding-left: 40px;
+    color: #333333;
+    }
+
+    p{
+      padding-left: 40px;
+      font-size: 9px;
+  }
+
+}
+
+#icon{
+  padding-left: -120px;
+  
+
+}
+svg{
+  width: 30px;
+  height: 30px;
+  margin-right: 60px;
+}
